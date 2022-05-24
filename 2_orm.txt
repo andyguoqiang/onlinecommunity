@@ -1,0 +1,102 @@
+! SoftChalk LessonBuilder ORM File (C)2004-2010
+! ================ DO NOT EDIT ================
+
+!Windows 7, 6.1
+!Java 1.7.0_09
+
+paste_image6
+pagename_1=I. Learning Community and Interaction
+pagename_7=VII. Self-Assessment Activity
+pagename_6=VI. References
+pagename_5=V. Interaction: Learner-Self
+pagename_4=IV. Interaction: Learner-Instructor
+pagename_3=III. Interaction: Learner-Learner
+pagename_2=II. Interaction: Learner-Content
+
+obj_item=20
+inlinetype=3 objNum=20 src=Unit3_Quiz.swf width=1200 height=500 desc="Flash movie." mathML=
+inlinetype=11 objNum=17 src=learning community & interaction.jpg width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=16 src=summary.jpg width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=8 src=instructor-led-training2.jpg width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=7 src=learner-content.jpg width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=10 src=stressful_speech.jpg width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=3 src=bs00554_.gif width=200 height=150 desc="No discription" mathML=
+inlinetype=11 objNum=2 src=laptop_hand_shake_400_clr.png width=200 height=150 desc="No discription" mathML=
+
+#MainFileName      := [2]
+#LessonTitle       := [Unit 3: Online Community and Interaction]
+#LessonDescription := []
+#LessonKeywords    := [A Instructional Strategies,B Facilitating TwoWay Interactive Learning,Instructional Strategies,Facilitating TwoWay Interactive Learning,Facilitating TwoWay Interactive Learning cont,I What is Online Teaching,II Online Student Population in Higher Education,II Differences Between Online and FacetoFace Teaching and Learning Environments,III Characteristics of Online Learners,I Introduction to Online Instructional Strategies]
+#FootThree         := [&nbsp;</p><p>Faculty Development Program,</p><p>Technology Training &amp; Integration,</p><p>Information Technology Division,</p><p>Montclair State University]
+#SchoolName        := []
+#EmailAddress      := []
+#CEUs              := []
+#PrintCert         := [false]
+#PrintSummary      := [false]
+#EmailResults      := [false]
+#PassPercent       := [70]
+#CustomStyleName   := [MSUTraining]
+#CSSJustification  := [1]
+#OnThisPage        := [true]
+#PageNav           := [true]
+#FootCopyright     := [true]
+#FootDate          := [false]
+#LessonTitle2      := []
+#TOCSidebar        := [false]
+#TOCNavbar         := [false]
+#TOCEntry          := [true]
+#LessonVersion     := [7.01.14]
+#PrevNextArrows    := [true]
+#VersionExtension  := []
+#FileOpenerType    := [7]
+#LanguageOut       := [English]
+#SubmitToScoreTr   := [false]
+#PrintAll          := [true]
+#TimeStamp         := [1347483171904]
+#SingleTry         := [true]
+#ScormComStatus    := [true]
+#Creator           := []
+#Publisher         := [SoftChalk]
+#OtherContributor  := [None]
+#Source            := [None]
+#Relation          := [None]
+#Rights            := [yes]
+#Cost              := [None]
+#Coverage          := []
+#Format            := [HTML / XHTML]
+#ResouceType       := [Tutorial]
+#TotalLessonPoints := [0]
+#NumPages          := [7]
+#PlayActFeedback   := [true]
+#QpExtraWide       := [false]
+#UseMasteryScore   := [false]
+#MasteryScoreValue := [0]
+#BBLinkText        := [Click to view]
+#BBItemName        := [Unit 1: Introduction to Teaching and Learning Online]
+#Visible           := [true]
+#TrackNumViews     := [false]
+#NavControlType    := [flow]
+#AddToGradebook    := [true]
+#FirstAttemptOnly  := [true]
+#PointsPossible    := [0]
+#ccForumUsed       := [false]
+#ccForumTitle      := []
+#ccForumTopic      := []
+#LaunchInNewWindow   := [false]
+#CreatorFirstName    := []
+#CreatorLastName     := []
+#CreatorEmail        := []
+#UseObjectMetadata    := [false]
+#LessonRevisionNumber := [219]
+#ConnectAccessType      := [1]
+#ConnectAllowViewing    := [true]
+#ConnectMaxAttempts     := [-1]
+#ConnectScoringOption   := [first]
+#ConnectScoreCenterUser := []
+#SaveAsScoreCenter      := [false]
+#RS_id                  := [1]
+#RS_jsURL               := [1]
+#RS_domain              := [1]
+#RS_useReadSpeaker      := [false]
+#RS_inSidebar           := [true]
+#ScoreCenterHost        := [https://softchalkcloud.com]

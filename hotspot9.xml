@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<identify>
+<color>FFFFFF</color>
+<correctsound>correct.mp3</correctsound>
+<wrongsound>wrong.mp3</wrongsound>
+<image>lessonimages/hotspotImage9.png</image>
+<mask>lessonimages/hotspotImage9Mask.png</mask>
+<useclue>false</useclue>
+<bubblestyle>9</bubblestyle>
+<width>450</width>
+<height>315</height>
+<skipText>Skip</skipText>
+<resetText>Re-start</resetText>
+<hintText>Hint</hintText>
+<completedText>Quiz completed.</completedText>
+<correctText>Right! Good job!</correctText>
+<incorrectText>Sorry, incorrect answer.</incorrectText>
+<mode>explore</mode>
+<hs1></hs1>
+<hs2></hs2>
+<hs3></hs3>
+<hs4></hs4>
+<hs5></hs5>
+<hs6></hs6>
+<hs7>Social+presence+is+the+complete+and+interactive+educational+experience+of+participants+in+the+didactic+process.+When+participants+in+an+online+course+help+establish+a+community+of+learning+by+projecting+their+personal+characteristics+into+the+discussion+or+other+activities%2C+they+present+themselves+as+real+people.</hs7>
+<hs8>Cognitive+presence+is+the+extent+to+which+the+professor+and+the+students+are+able+to+construct+and+affirm+meaning+through+sustained+discourse+%28discussion%29+in+a+community+of+inquiry.+It+is+a+vital+element+in+enhancing+critical+thinking.+Cognitive+presence+can+be+demonstrated+by+introducing+factual%2C+conceptual%2C+and+theoretical+knowledge+into+the+discussion.</hs8>
+<hs9>Teaching+presence+supports+the+design+and+management+of+an+educational+experience+and+facilitates+the+communication+between+teachers+and+students.+Teaching+presence+supports+and+enhances+both+cognitive+and+social+presence+in+achieving+educational+outcomes.</hs9>
+<hs10></hs10>
+<hs11></hs11>
+<hs12></hs12>
+<hs13></hs13>
+<hs14></hs14>
+<hs15></hs15>
+<hs16></hs16>
+<hs17></hs17>
+<hs18></hs18>
+<hs19></hs19>
+<hs20></hs20>
+ <value>0</value>
+ <valueText>Value:</valueText>
+ <scoreText>Score</scoreText>
+ <resetText>Re-start</resetText>
+</identify>

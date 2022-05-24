@@ -1,0 +1,25 @@
+! SoftChalk LessonBuilder Image Data File (C)2008
+! ================= DO NOT EDIT =================
+
+ButtonImage:
+fileName=onthispage_custom
+width=145
+height=50
+margin=2
+diameter=0
+bgColor=a29e9e
+fgColor=FFFFFF
+textColor=faf0f0
+imageColor=c00000
+fontName=Arial
+fontStyle=bold
+fontSize=16
+standardArrow=true
+actTitle=false
+closeBox=false
+direction=0
+mediaIcon=false
+mediaType=0
+text=On this Page
+textCatagory=18
+
